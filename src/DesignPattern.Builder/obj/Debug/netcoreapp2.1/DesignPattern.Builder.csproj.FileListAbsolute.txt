@@ -1,0 +1,11 @@
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\bin\Debug\netcoreapp2.1\DesignPattern.Builder.deps.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\bin\Debug\netcoreapp2.1\DesignPattern.Builder.runtimeconfig.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\bin\Debug\netcoreapp2.1\DesignPattern.Builder.runtimeconfig.dev.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\bin\Debug\netcoreapp2.1\DesignPattern.Builder.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\bin\Debug\netcoreapp2.1\DesignPattern.Builder.pdb
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\obj\Debug\netcoreapp2.1\DesignPattern.Builder.csproj.CoreCompileInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\obj\Debug\netcoreapp2.1\DesignPattern.Builder.AssemblyInfoInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\obj\Debug\netcoreapp2.1\DesignPattern.Builder.AssemblyInfo.cs
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\obj\Debug\netcoreapp2.1\DesignPattern.Builder.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\obj\Debug\netcoreapp2.1\DesignPattern.Builder.pdb
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.Builder\obj\Debug\netcoreapp2.1\DesignPattern.Builder.csprojAssemblyReference.cache
