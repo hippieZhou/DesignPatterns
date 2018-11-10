@@ -1,0 +1,11 @@
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\bin\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.deps.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\bin\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.runtimeconfig.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\bin\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.runtimeconfig.dev.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\bin\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\bin\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.pdb
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\obj\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.csprojAssemblyReference.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\obj\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\obj\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\obj\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.AssemblyInfo.cs
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\obj\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPattern.AbstractFactory\obj\Debug\netcoreapp2.1\DesignPattern.AbstractFactory.pdb
