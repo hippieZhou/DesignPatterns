@@ -23,15 +23,17 @@
 设计模式总共有23种，而这23种又可以分为三大类：
 
 - 创建型模式
-	- [简单工厂模式](https://www.cnblogs.com/hippieZhou/p/9938761.html)
-	- [抽象工厂模式](https://www.cnblogs.com/hippieZhou/p/9939891.html)
-	- [单例模式](https://www.cnblogs.com/hippieZhou/p/9940021.html)
-	- [建造者模式](https://www.cnblogs.com/hippieZhou/p/9940354.html)
-	- [原型模式](https://www.cnblogs.com/hippieZhou/p/9940504.html)
+  - [简单工厂模式](https://www.cnblogs.com/hippieZhou/p/9938761.html)
+  - [抽象工厂模式](https://www.cnblogs.com/hippieZhou/p/9939891.html)
+  - [单例模式](https://www.cnblogs.com/hippieZhou/p/9940021.html)
+  - [建造者模式](https://www.cnblogs.com/hippieZhou/p/9940354.html)
+  - [原型模式](https://www.cnblogs.com/hippieZhou/p/9940504.html)
 
 > 这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 *new* 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。
 
 - 结构型模式
+  - [适配器模式](https://www.cnblogs.com/hippieZhou/p/9941684.html)
+  - [桥接模式](https://www.cnblogs.com/hippieZhou/p/9942277.html)
 
 > 这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
 

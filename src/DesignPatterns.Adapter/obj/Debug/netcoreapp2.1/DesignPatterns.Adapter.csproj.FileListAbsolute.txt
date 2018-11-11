@@ -1,0 +1,11 @@
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\bin\Debug\netcoreapp2.1\DesignPatterns.Adapter.deps.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\bin\Debug\netcoreapp2.1\DesignPatterns.Adapter.runtimeconfig.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\bin\Debug\netcoreapp2.1\DesignPatterns.Adapter.runtimeconfig.dev.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\bin\Debug\netcoreapp2.1\DesignPatterns.Adapter.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\bin\Debug\netcoreapp2.1\DesignPatterns.Adapter.pdb
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\obj\Debug\netcoreapp2.1\DesignPatterns.Adapter.csprojAssemblyReference.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\obj\Debug\netcoreapp2.1\DesignPatterns.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\obj\Debug\netcoreapp2.1\DesignPatterns.Adapter.AssemblyInfoInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\obj\Debug\netcoreapp2.1\DesignPatterns.Adapter.AssemblyInfo.cs
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\obj\Debug\netcoreapp2.1\DesignPatterns.Adapter.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Adapter\obj\Debug\netcoreapp2.1\DesignPatterns.Adapter.pdb
