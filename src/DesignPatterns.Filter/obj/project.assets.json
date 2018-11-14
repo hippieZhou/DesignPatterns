@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.ProtoType\\DesignPatterns.ProtoType.csproj",
-      "projectName": "DesignPatterns.ProtoType",
-      "projectPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.ProtoType\\DesignPatterns.ProtoType.csproj",
+      "projectUniqueName": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.Filter\\DesignPatterns.Filter.csproj",
+      "projectName": "DesignPatterns.Filter",
+      "projectPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.Filter\\DesignPatterns.Filter.csproj",
       "packagesPath": "C:\\Users\\hippieZhou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.ProtoType\\obj\\",
+      "outputPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.Filter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

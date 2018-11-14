@@ -24,9 +24,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.Builder", "sr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.ProtoType", "src\DesignPatterns.ProtoType\DesignPatterns.ProtoType.csproj", "{45C791A3-7D02-4F8F-9734-25FE1032374F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Adapter", "src\DesignPatterns.Adapter\DesignPatterns.Adapter.csproj", "{AB257026-AE35-43C0-BFDD-9B645B1E470B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Adapter", "src\DesignPatterns.Adapter\DesignPatterns.Adapter.csproj", "{AB257026-AE35-43C0-BFDD-9B645B1E470B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Bridge", "src\DesignPatterns.Bridge\DesignPatterns.Bridge.csproj", "{01855E45-E2B3-4312-ACAB-932BE9C58F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Bridge", "src\DesignPatterns.Bridge\DesignPatterns.Bridge.csproj", "{01855E45-E2B3-4312-ACAB-932BE9C58F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Filter", "src\DesignPatterns.Filter\DesignPatterns.Filter.csproj", "{EF80C2EA-9B67-4F63-A331-5BFAEF15F142}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{01855E45-E2B3-4312-ACAB-932BE9C58F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01855E45-E2B3-4312-ACAB-932BE9C58F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01855E45-E2B3-4312-ACAB-932BE9C58F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF80C2EA-9B67-4F63-A331-5BFAEF15F142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF80C2EA-9B67-4F63-A331-5BFAEF15F142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF80C2EA-9B67-4F63-A331-5BFAEF15F142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF80C2EA-9B67-4F63-A331-5BFAEF15F142}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{45C791A3-7D02-4F8F-9734-25FE1032374F} = {9B90BF00-8360-4325-92E0-99712622CD18}
 		{AB257026-AE35-43C0-BFDD-9B645B1E470B} = {CB9EFB8A-E389-4B85-AF18-BE78A953D9BB}
 		{01855E45-E2B3-4312-ACAB-932BE9C58F2D} = {CB9EFB8A-E389-4B85-AF18-BE78A953D9BB}
+		{EF80C2EA-9B67-4F63-A331-5BFAEF15F142} = {CB9EFB8A-E389-4B85-AF18-BE78A953D9BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {860D68DA-89B0-4A9C-9FF6-E5ED70889DBF}
