@@ -13,6 +13,7 @@ namespace DesignPatterns.Filter
                 new Person("Robert", "MALE", "SINGLE"),
                 new Person("John", "MALE", "MARRIED"),
                 new Person("Laura", "FEMALE", "MARRIED"),
+                new Person("Diana", "FEMALE", "SINGLE"),
                 new Person("Mike", "MALE", "SINGLE"),
                 new Person("Bobby", "MALE", "SINGLE")
             });
@@ -28,6 +29,9 @@ namespace DesignPatterns.Filter
 
             Console.WriteLine("Females:");
             PrintPersons(female.MeetCriteria(persons));
+
+            Console.WriteLine("Single Males");
+            PrintPersons(singleMale.MeetCriteria(persons));
 
             Console.WriteLine("Single Or Females");
             PrintPersons(singleOrFemale.MeetCriteria(persons));

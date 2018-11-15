@@ -34,6 +34,7 @@
 - 结构型模式
   - [适配器模式](https://www.cnblogs.com/hippieZhou/p/9941684.html)
   - [桥接模式](https://www.cnblogs.com/hippieZhou/p/9942277.html)
+  - [过滤器](https://www.cnblogs.com/hippieZhou/p/9965175.html)
 
 > 这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
 
