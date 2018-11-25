@@ -1,0 +1,11 @@
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\bin\Debug\netcoreapp2.1\DesignPatterns.Flyweight.deps.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\bin\Debug\netcoreapp2.1\DesignPatterns.Flyweight.runtimeconfig.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\bin\Debug\netcoreapp2.1\DesignPatterns.Flyweight.runtimeconfig.dev.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\bin\Debug\netcoreapp2.1\DesignPatterns.Flyweight.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\bin\Debug\netcoreapp2.1\DesignPatterns.Flyweight.pdb
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\obj\Debug\netcoreapp2.1\DesignPatterns.Flyweight.csprojAssemblyReference.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\obj\Debug\netcoreapp2.1\DesignPatterns.Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\obj\Debug\netcoreapp2.1\DesignPatterns.Flyweight.AssemblyInfoInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\obj\Debug\netcoreapp2.1\DesignPatterns.Flyweight.AssemblyInfo.cs
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\obj\Debug\netcoreapp2.1\DesignPatterns.Flyweight.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Flyweight\obj\Debug\netcoreapp2.1\DesignPatterns.Flyweight.pdb
