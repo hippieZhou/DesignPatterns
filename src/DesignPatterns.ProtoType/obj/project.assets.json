@@ -516,10 +516,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -548,11 +549,10 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
+      "sha512": "edO5wxw+3VN1zHSumLw++JJMwjVy7bZZLW5viHHOGHNGeFwvBwhR3DBzK+S2yU49U2q9bL5m23i4gsGH1LMWdw==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.ProtoType\\DesignPatterns.ProtoType.csproj",
+      "projectUniqueName": "D:\\Workspace\\Github\\DesignPatterns\\src\\DesignPatterns.ProtoType\\DesignPatterns.ProtoType.csproj",
       "projectName": "DesignPatterns.ProtoType",
-      "projectPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.ProtoType\\DesignPatterns.ProtoType.csproj",
+      "projectPath": "D:\\Workspace\\Github\\DesignPatterns\\src\\DesignPatterns.ProtoType\\DesignPatterns.ProtoType.csproj",
       "packagesPath": "C:\\Users\\hippieZhou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.ProtoType\\obj\\",
+      "outputPath": "D:\\Workspace\\Github\\DesignPatterns\\src\\DesignPatterns.ProtoType\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
