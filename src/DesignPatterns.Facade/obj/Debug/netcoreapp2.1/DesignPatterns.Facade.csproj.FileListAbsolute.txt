@@ -1,0 +1,10 @@
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\bin\Debug\netcoreapp2.1\DesignPatterns.Facade.deps.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\bin\Debug\netcoreapp2.1\DesignPatterns.Facade.runtimeconfig.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\bin\Debug\netcoreapp2.1\DesignPatterns.Facade.runtimeconfig.dev.json
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\bin\Debug\netcoreapp2.1\DesignPatterns.Facade.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\bin\Debug\netcoreapp2.1\DesignPatterns.Facade.pdb
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\obj\Debug\netcoreapp2.1\DesignPatterns.Facade.csproj.CoreCompileInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\obj\Debug\netcoreapp2.1\DesignPatterns.Facade.AssemblyInfoInputs.cache
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\obj\Debug\netcoreapp2.1\DesignPatterns.Facade.AssemblyInfo.cs
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\obj\Debug\netcoreapp2.1\DesignPatterns.Facade.dll
+C:\Users\hippieZhou\Desktop\DesignPatterns\src\DesignPatterns.Facade\obj\Debug\netcoreapp2.1\DesignPatterns.Facade.pdb

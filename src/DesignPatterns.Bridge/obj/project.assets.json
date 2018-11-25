@@ -549,10 +549,12 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "edO5wxw+3VN1zHSumLw++JJMwjVy7bZZLW5viHHOGHNGeFwvBwhR3DBzK+S2yU49U2q9bL5m23i4gsGH1LMWdw==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -688,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Github\\DesignPatterns\\src\\DesignPatterns.Bridge\\DesignPatterns.Bridge.csproj",
+      "projectUniqueName": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.Bridge\\DesignPatterns.Bridge.csproj",
       "projectName": "DesignPatterns.Bridge",
-      "projectPath": "D:\\Workspace\\Github\\DesignPatterns\\src\\DesignPatterns.Bridge\\DesignPatterns.Bridge.csproj",
+      "projectPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.Bridge\\DesignPatterns.Bridge.csproj",
       "packagesPath": "C:\\Users\\hippieZhou\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\Github\\DesignPatterns\\src\\DesignPatterns.Bridge\\obj\\",
+      "outputPath": "C:\\Users\\hippieZhou\\Desktop\\DesignPatterns\\src\\DesignPatterns.Bridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
