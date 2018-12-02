@@ -22,8 +22,6 @@
 
 ## 系列博文
 
-设计模式总共有23种，而这23种又可以分为三大类：
-
 - 创建型模式
   - [简单工厂模式](https://www.cnblogs.com/hippieZhou/p/9938761.html)
   - [抽象工厂模式](https://www.cnblogs.com/hippieZhou/p/9939891.html)
