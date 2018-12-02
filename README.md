@@ -41,6 +41,7 @@
   - [装饰器模式](https://www.cnblogs.com/hippieZhou/p/9979019.html)
   - [外观模式](https://www.cnblogs.com/hippieZhou/p/10016521.html)
   - [享元模式](https://www.cnblogs.com/hippieZhou/p/10017009.html)
+  - [代理模式](https://www.cnblogs.com/hippieZhou/p/10055048.html)
 
 > 这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
 
