@@ -47,6 +47,7 @@
   - [责任链模式](https://www.cnblogs.com/hippieZhou/p/10055183.html)
   - [命令模式](https://www.cnblogs.com/hippieZhou/p/10067774.html)
   - [解释器模式](https://www.cnblogs.com/hippieZhou/p/10085500.html)
+  - [迭代器模式](https://www.cnblogs.com/hippieZhou/p/10087250.html)
 
 > 这些设计模式特别关注对象之间的通信。
 
