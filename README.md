@@ -50,6 +50,7 @@
   - [迭代器模式](https://www.cnblogs.com/hippieZhou/p/10087250.html)
   - [中介者模式](https://www.cnblogs.com/hippieZhou/p/10087721.html)
   - [备忘录模式](https://www.cnblogs.com/hippieZhou/p/10093574.html)
+  - [观察者模式](https://www.cnblogs.com/hippieZhou/p/10093772.html)
 
 > 这些设计模式特别关注对象之间的通信。
 
