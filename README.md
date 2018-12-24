@@ -55,6 +55,7 @@
   - [空对象模式](https://www.cnblogs.com/hippieZhou/p/10127115.html)
   - [策略模式](https://www.cnblogs.com/hippieZhou/p/10163732.html)
   - [模板模式](https://www.cnblogs.com/hippieZhou/p/10164092.html)
+  - [访问者模式](https://www.cnblogs.com/hippieZhou/p/10171064.html)
 
 > 这些设计模式特别关注对象之间的通信。
 

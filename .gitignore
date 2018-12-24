@@ -42,3 +42,13 @@
 /src/DesignPatterns.Strategy/obj
 /src/DesignPatterns.Template/bin/Debug/netcoreapp2.1
 /src/DesignPatterns.Template/obj
+/src/DesignPatterns.Adapter/bin/Debug/netcoreapp2.1
+/src/DesignPatterns.Bridge/bin/Debug/netcoreapp2.1
+/src/DesignPatterns.Adapter/obj/Debug/netcoreapp2.1
+/src/DesignPatterns.Bridge/obj/Debug/netcoreapp2.1
+/src/DesignPatterns.ChainofResponsibility/bin/Debug/netcoreapp2.1
+/src/DesignPatterns.ChainofResponsibility/obj/Debug/netcoreapp2.1
+/src/DesignPatterns.Command/bin/Debug/netcoreapp2.1
+/src/DesignPatterns.Command/obj
+/src/DesignPatterns.Visitor/bin/Debug/netcoreapp2.1
+/src/DesignPatterns.Visitor/obj
