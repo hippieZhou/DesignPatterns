@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![](/jksj/images/00.png)
+![](images/00.png)
 
 </div>
 
